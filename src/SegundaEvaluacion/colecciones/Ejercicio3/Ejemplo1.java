@@ -1,4 +1,4 @@
-package SegundaEvaluacion.colecciones;
+package SegundaEvaluacion.colecciones.Ejercicio3;
 
 import java.util.HashMap;
 import java.util.Map;

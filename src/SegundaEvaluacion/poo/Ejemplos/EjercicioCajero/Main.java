@@ -1,4 +1,4 @@
-package SegundaEvaluacion.poo.EjercicioCajero;
+package SegundaEvaluacion.poo.Ejemplos.EjercicioCajero;
 /* Existen gestores que administran las cuentas bancarias y atienden a sus propietarios. Cada cuenta, en caso de tenerlo, cuenta con un único gestor.
 Diseñar la clase Gestor de la que interesa guardar su nombre, teléfono y el importe máximo autorizado con el que pueden operar.
 Con respecto a los gestores, existen las siguientes restricciones:

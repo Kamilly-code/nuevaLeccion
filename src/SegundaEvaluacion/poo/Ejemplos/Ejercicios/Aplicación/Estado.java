@@ -1,4 +1,4 @@
-package SegundaEvaluacion.poo.Ejercicios.Aplicación;
+package SegundaEvaluacion.poo.Ejemplos.Ejercicios.Aplicación;
 
 public enum Estado {
     PENDIENTE,

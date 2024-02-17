@@ -16,7 +16,7 @@ public class Ejercicio32 {
         if (numero >= 1 && numero <= 100) {
 
         } else {
-            while (!(numero >= 1 && numero <= 100)) {
+            while (!(numero <= 1 || numero >= 100)) {
                 System.out.println("Has introducido un número fuera del rango, favor introduzca otro número");
                 numero = teclado.nextInt();
             }

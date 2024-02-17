@@ -1,6 +1,4 @@
-package SegundaEvaluacion.poo.Ejercicios.Aplicación;
-
-import SegundaEvaluacion.poo.Ejercicio3.Usuario1;
+package SegundaEvaluacion.poo.Ejemplos.Ejercicios.Aplicación;
 
 import java.util.Scanner;
 

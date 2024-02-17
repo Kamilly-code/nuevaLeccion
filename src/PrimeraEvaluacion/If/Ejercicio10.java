@@ -1,4 +1,4 @@
-package DudasAinara;
+package PrimeraEvaluacion.If;
 
 import java.util.Scanner;
 

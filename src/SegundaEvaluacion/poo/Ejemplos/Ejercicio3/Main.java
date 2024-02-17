@@ -1,4 +1,4 @@
-package SegundaEvaluacion.poo.Ejercicio3;
+package SegundaEvaluacion.poo.Ejemplos.Ejercicio3;
 
 public class Main {
     public static void main(String[] args) {

@@ -31,6 +31,21 @@ public class Vehículo {
 
     // toString
 
+    @Override
+    public String toString() {
+        return "Vehículo{" +
+                "marca='" + marca + '\'' +
+                ", matrícula='" + matrícula + '\'' +
+                ", númeroKm=" + númeroKm +
+                ", fechaMatriculación=" + fechaMatriculación +
+                ", descripción='" + descripción + '\'' +
+                ", precio=" + precio +
+                ", nombreUsuario='" + nombreUsuario + '\'' +
+                ", dniPropietario='" + dniPropietario + '\'' +
+                '}';
+    }
+
+
     // Métodos
 
 }

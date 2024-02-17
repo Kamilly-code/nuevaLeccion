@@ -1,4 +1,4 @@
-package SegundaEvaluacion.poo.EjercicioCajero;
+package SegundaEvaluacion.poo.Ejemplos.EjercicioCajero;
 
 import java.util.Scanner;
 
