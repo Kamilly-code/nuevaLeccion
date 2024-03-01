@@ -16,20 +16,15 @@ public class Ejercicio32 {
             System.out.println("Escribe un número entre 1 y 100");
 
             numero = teclado.nextInt();
-            if (numero <= 1 || numero >=100){
-                numero++;
+            if (numero < 1 || numero >100){
                 System.out.println("¡Error!");
             }else {
                 System.out.println("bien");
             }
 
 
-        }while (numero <= 1 || numero >= 100);
-        if (numero <= 1 || numero >= 100) {
-            System.out.println("¡Error!");
-        }else {
-            System.out.println("bien");
-        }
+        }while (numero < 1 || numero > 100);
+
         System.out.println(numero);
 
 
