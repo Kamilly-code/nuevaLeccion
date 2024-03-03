@@ -1,0 +1,1 @@
+# float y double tienen capacidades variables cuando se trata de la cantidad de cifras decimales que pueden contener. float puede mantener `hasta 7 cifras` decimales de manera precisa, mientras que double puede mantener `hasta 15`.
