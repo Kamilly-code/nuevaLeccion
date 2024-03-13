@@ -20,6 +20,7 @@ public class Main {
     Académico academico4 = crearAcademico("Pedro R.García Borreno",2006);
     Académico academico5 = crearAcademico("José M-Merino",2009);
 
+
     HashMap<Character, Académico> mapa = new HashMap<>();
     /*Me piden que inserte los académicos con u método*/
        // boolean insertado = nuevoAcadémico(mapa, academico1, '5');

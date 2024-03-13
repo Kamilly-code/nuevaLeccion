@@ -1,0 +1,25 @@
+Muro Tapia, Mar
+Fecha de nacimiento: 2000-03-08
+Fecha de contrato: 2024-03-08
+Salario: 15876,00 €
+Supervisado por: Colás Colás, Nicolás
+
+
+Juárez Jiménez, Jon
+Fecha de nacimiento: 1978-05-05
+Fecha de contrato: 2024-03-08
+Salario: 15876,00 €
+Supervisado por: Colás Colás, Nicolás
+
+
+Colás Colás, Nicolás
+Fecha de nacimiento: 1999-10-15
+Fecha de contrato: 2020-03-15
+Salario: 16749,18 €
+Supervisado por:  nadie
+Supervisa a:
+* Muro Tapia, Mar
+* Juárez Jiménez, Jon
+
+
+Nº de empleados: 3
