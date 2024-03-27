@@ -1,12 +1,12 @@
-package laBatallaDeLasAlmas;
+package ejerciciosInsti.laBatallaDeLasAlmas;
 
 public class Monstros extends Intercoporeo{
     private int bondad;
     private int maldad;
 
-    public Monstros(int bondad, int maldad) {
-        this.bondad = bondad;
+    public Monstros(int maldad) {
         this.maldad = maldad;
+        this.bondad = 0;
     }
 
     public int getBondad() {
@@ -26,7 +26,14 @@ public class Monstros extends Intercoporeo{
     }
 
     @Override
-    public void mostrar() {
+    public String toString() {
+        return "Monstros{" +
+                "maldad=" + maldad +
+                '}';
+    }
 
+    @Override
+    public void mostrar() {
+        System.out.println(this.toString());
     }
 }

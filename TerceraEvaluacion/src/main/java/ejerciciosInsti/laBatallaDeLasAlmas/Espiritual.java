@@ -1,4 +1,4 @@
-package laBatallaDeLasAlmas;
+package ejerciciosInsti.laBatallaDeLasAlmas;
 
 public interface Espiritual {
    public abstract void mostrar();
