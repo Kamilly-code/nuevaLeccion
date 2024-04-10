@@ -1,4 +1,4 @@
-package Lambda;
+package Lambda.ejercicio01;
 
 public class Main {
     public static void main(String[] args) {
