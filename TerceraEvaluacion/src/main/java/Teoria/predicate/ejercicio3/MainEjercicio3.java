@@ -1,4 +1,4 @@
-package Lambda.predicate.ejercicio3;
+package Teoria.predicate.ejercicio3;
 
 import java.util.function.Predicate;
 
